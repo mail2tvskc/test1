@@ -3,7 +3,10 @@ t
 this is the change
 <<<<<<< HEAD
 test
+<<<<<<< HEAD
 
 test
 =======
 >>>>>>> parent of 1a38578... second changes to test.txt file
+=======
+>>>>>>> parent of c262395... this is my third change
