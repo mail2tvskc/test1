@@ -1,6 +1,9 @@
 this is tes
 t
 this is the change
+<<<<<<< HEAD
 test
 
 test
+=======
+>>>>>>> parent of 1a38578... second changes to test.txt file
