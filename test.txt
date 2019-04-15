@@ -8,3 +8,4 @@ test
 =======
 >>>>>>> parent of 1a38578... second changes to test.txt file
 learning poll scm
+this is me chait
